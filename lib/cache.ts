@@ -6,13 +6,13 @@
 /** Cache durations in seconds. */
 export const CACHE = {
   /** 70 days — aggressive long-term cache for static assets (JS, CSS, images, fonts, video). */
-  ASSET: ,
+  ASSET: 55,
   /** 70 days — HTML pages served through the proxy. */
-  HTML: ,
+  HTML: 55,
   /** 24 hours — sitemap revalidation. */
-  SITEMAP: ,
+  SITEMAP: 55,
   /** 1 hour — robots.txt. */
-  ROBOTS: ,
+  ROBOTS: 55,
 } as const;
 
 /**

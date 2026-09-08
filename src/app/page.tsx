@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { BondTypeCard } from "@/components/bond-type/BondTypeCard";
 import resume from "../../himani.json";
 
@@ -26,14 +25,6 @@ export default function Home() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16 md:grid md:grid-cols-[200px_1fr] md:gap-16">
       <aside className="mb-12 md:mb-0">
-        <Image
-          src="/img-2384.webp"
-          alt={resume.name}
-          width={600}
-          height={800}
-          sizes="(min-width: 768px) 200px, 40vw"
-          className="mb-4 aspect-[3/4] w-full max-w-[200px] object-cover"
-        />
         <h1 className="text-base font-medium text-neutral-900">{resume.name}</h1>
         <p className="mt-1 text-sm text-neutral-500">
           {resume.title} — {resume.headline}

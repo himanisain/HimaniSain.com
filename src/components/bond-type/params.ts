@@ -55,7 +55,7 @@ export const BOND_ON_TICK = 3;
 
 export const BOND_OFF_BEFORE_HOME = 2;
 
-export const LINES = ["Arjun", "Aditya"] as const;
+export const LINES = ["Himani", "Sain"] as const;
 
 export interface Pose {
   gaps: number[][];

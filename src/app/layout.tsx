@@ -18,9 +18,9 @@ const fontPixel = Silkscreen({
 });
 
 export const metadata: Metadata = {
-  title: "Arjun Aditya",
+  title: "Himani Sain",
   description:
-    "Reactional Programmer who likes to build things.",
+    "Marketing Specialist — Technical SEO, AEO/GEO & Growth Analytics.",
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",

@@ -1,0 +1,106 @@
+{
+  "name": "Himani Sain",
+  "title": "Marketing Specialist",
+  "headline": "Technical SEO, AEO/GEO & Growth Analytics",
+  "contact": {
+    "email": "himanisain.72@gmail.com",
+    "phone": "+91 82189 37982",
+    "linkedin": "linkedin.com/in/himani-s-8a60b8216"
+  },
+  "summary": "Marketing specialist with 6+ years owning organic growth systems for B2B and tech audiences, spanning technical SEO, AEO, and GEO. Set up GA4 properties and GTM containers from scratch, built custom event tracking and Looker Studio dashboards used for channel, content, and lead-attribution decisions, and tracked AI-referral traffic (ChatGPT, Perplexity, Claude) through to pipeline. Ran backlink outreach campaigns that earned editorial links and grew Domain Rating, using Ahrefs, SEMrush, and Moz to analyze competitor backlink profiles. Use Claude and ChatGPT as thinking partners for research, structuring content for AI citation, and workflow efficiency.",
+  "coreSkills": {
+    "seoAeoGeo": [
+      "Technical SEO", "AI Search", "Keyword Research", "SERP Gap Analysis",
+      "On-Page Optimization", "AEO (FAQ Schema, Structured Content for LLM Citation)",
+      "GEO", "AI Citation Tracking (ChatGPT, Perplexity, Claude)"
+    ],
+    "analyticsMeasurement": [
+      "GA4 Property Setup", "GTM Container Management", "Custom Event Tracking",
+      "Looker Studio Dashboards", "Conversion & Lead Attribution"
+    ],
+    "backlinkOffPageSeo": [
+      "Backlink Outreach", "Editorial Link Building", "Domain Rating (DR) Growth",
+      "Competitor Backlink Analysis (Ahrefs, SEMrush, Moz)"
+    ],
+    "contentWebTools": [
+      "Landing Page Optimization", "Website/CMS Content Refresh (WordPress)",
+      "Ahrefs", "Google Search Console", "GA4", "GTM", "Looker Studio",
+      "SEMrush", "Moz", "Claude", "ChatGPT"
+    ],
+    "toolsPlatforms": [
+      "Google Workspace", "Jira", "Trello", "Slack", "MS Office", "Canva", "WordPress"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Marketing Specialist",
+      "company": "Kalpa Inc.",
+      "location": "Toronto, Canada · Remote",
+      "startDate": "2025-08",
+      "endDate": "Present",
+      "highlights": [
+        "Set up GA4 properties and GTM containers from scratch, including custom event tracking and conversion goals, and built Looker Studio dashboards used by the team for channel, content, and lead-attribution decisions.",
+        "Structured content for AEO/GEO (FAQ schema, short-answer blocks, heading hierarchy) and tracked AI-referral traffic from ChatGPT, Perplexity, and Claude through to pipeline.",
+        "Ran backlink outreach campaigns with editors and publishers, earning editorial links and growing Domain Rating; used Ahrefs to analyze competitor backlink profiles and identify targets.",
+        "Led a full website content refresh, coordinating with an external creative/branding agency to align messaging, visuals, and site structure for both human readers and AI retrieval.",
+        "Use Claude (Cowork, Agents, Chat) and Codex as thinking partners for research, content structuring, and workflow automation across concurrent projects."
+      ]
+    },
+    {
+      "role": "Digital Marketing Specialist",
+      "company": "Yatiken Software Solutions",
+      "location": "Noida, Uttar Pradesh, India",
+      "startDate": "2024-11",
+      "endDate": "2025-08",
+      "highlights": [
+        "Designed data-backed content and campaign solutions for B2B clients, enhancing lead generation by 35%.",
+        "Managed digital ad campaigns (Google Ads, Facebook Ads) and LinkedIn content strategy, increasing brand engagement by 30%.",
+        "Ran A/B tests across 10+ audience segments and translated results into optimization recommendations, boosting qualified leads by 300+."
+      ]
+    },
+    {
+      "role": "Marketing Analyst",
+      "company": "SysCloudTech IT Solutions Private Limited",
+      "location": "Remote",
+      "startDate": "2022-03",
+      "endDate": "2024-02",
+      "highlights": [
+        "Conducted technical SEO audits (crawlability, canonical tags, structured data) and user behavior analysis, improving UX and conversion by 20%.",
+        "Delivered client-facing SEO and performance dashboards across mid-size clients, informing proposals and win rates.",
+        "Led inbound marketing and organic outreach efforts, increasing client acquisition by 30%."
+      ]
+    },
+    {
+      "role": "Marketing Assistant",
+      "company": "Digital Kumbh Private Limited",
+      "location": "Remote",
+      "startDate": "2020-03",
+      "endDate": "2022-02",
+      "highlights": [
+        "Owned technical and on-page SEO end-to-end, including keyword research, internal linking, and content optimization, driving a 35% increase in organic traffic in six months.",
+        "Ran backlink outreach and competitive analysis using Google Analytics and SEMrush to identify link and content opportunities.",
+        "Managed analytics dashboards to track keyword rankings and organic performance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree in Business Administration (Marketing)",
+      "institution": "Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh",
+      "startYear": 2022,
+      "endYear": 2024
+    },
+    {
+      "degree": "Certification in Digital Marketing",
+      "institution": "Indian Institute of Technology Delhi, Delhi",
+      "startYear": 2023,
+      "endYear": 2024
+    },
+    {
+      "degree": "Bachelor's Degree in Business Administration",
+      "institution": "Ch. Charan Singh University, Uttar Pradesh",
+      "startYear": 2019,
+      "endYear": 2022
+    }
+  ]
+}

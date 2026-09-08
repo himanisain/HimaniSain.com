@@ -95,7 +95,7 @@ export function BondTypeCard({
     <div
       data-canvas-card
       role="img"
-      aria-label="The name Arjun Aditya in a white pixel typeface on bright red. The letters drift apart into a molecule diagram, fine stair-stepped runs of square pixels bonding each letter to the next within its word. The chain re-scatters through a few different shapes, then the letters glide back into the plain typeset name and it starts again with a new sequence."
+      aria-label="The name Himani Sain in a white pixel typeface on bright red. The letters drift apart into a molecule diagram, fine stair-stepped runs of square pixels bonding each letter to the next within its word. The chain re-scatters through a few different shapes, then the letters glide back into the plain typeset name and it starts again with a new sequence."
       style={{
         backgroundColor: GREEN,
         ...(viewTransitionName ? { viewTransitionName } : undefined),
